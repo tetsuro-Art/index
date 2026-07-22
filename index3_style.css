@@ -9,7 +9,7 @@ body{
     background-color: #2f0fe2;
     background-image: url(yama3.webp);
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
 }
 h2 {
     color:rgb(255, 80, 80);
